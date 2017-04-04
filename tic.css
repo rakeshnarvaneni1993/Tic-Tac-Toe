@@ -1,0 +1,42 @@
+.table{
+  width: 150px;
+  height: 150px;
+  float:right
+  padding:20px;
+  border-collapse: collapse;
+}
+.content{
+  text-align: center;
+  width: 400px;
+  margin:0 auto;
+}
+.complete{
+  margin:0 auto;
+}
+.t12,.t22,.t32{
+  border-left:5px solid black;
+    border-right:5px solid black;
+}
+
+.t11,.t12,.t13{
+  border-bottom: 5px solid black
+}
+
+.t31,.t32,.t33{
+  border-top: 5px solid black
+}
+#p1circle{
+  width: 30px;
+  height:30px;
+}
+
+
+#p2circle{
+  width: 30px;
+  height:30px;
+}
+.reset{
+  width:100px;
+  height:30px;
+  margin-left:600px;
+}
